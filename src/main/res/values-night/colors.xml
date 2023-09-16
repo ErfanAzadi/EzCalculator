@@ -7,4 +7,5 @@
     <color name="inputTextColor">#73738F</color>
     <color name="buttonColor">#353650</color>
     <color name="iconColor">#B6B6DB</color>
+    <color name="selectedBackground">#40029A</color>
 </resources>
