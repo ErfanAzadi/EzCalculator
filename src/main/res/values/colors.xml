@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#DADADA</color>
+    <color name="displayColor">#D6D4D4</color>
+    <color name="operationColor">#680000</color>
+    <color name="numberColor">#1C1D3B</color>
+    <color name="inputTextColor">#8E8EA4</color>
+    <color name="buttonColor">#DADADA</color>
+    <color name="iconColor">#54556A</color>
+    <color name="selectedBackground">#9900FF00</color>
+</resources>
